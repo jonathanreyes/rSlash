@@ -6,4 +6,4 @@ Type "r/ \<sub\>" into the omnibox and hit enter to navigate to reddit.com/r/\<s
 
 To-Do's:
 -Implement suggestsions based on list of all subreddits
-	-Filter based on popularity, NSFW, etc. from extension menu
+	-Filter based on popularity, NSFW, etc. from extension menu 
