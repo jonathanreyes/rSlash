@@ -11,4 +11,5 @@ Type "r \<sub\>" into the omnibox and hit enter to navigate to reddit.com/r/\<su
   * Based on subscribed subreddits 
     * need Reddit account access, maybe via RES integration?
   * Based on previously visited subreddits (no account access needed)
-    * i.e. save every subreddit visited by rSlash and use that list for suggestions
+    * ~~i.e. save every subreddit visited by rSlash and use that list for suggestions~~
+    * Bug: getting multiple entries of the same subreddit into previously visited subreddits list
